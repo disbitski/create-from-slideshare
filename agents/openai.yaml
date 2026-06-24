@@ -1,0 +1,4 @@
+interface:
+  display_name: "Create From Slideshare"
+  short_description: "Recover full decks from visible Slideshare slides."
+  default_prompt: "Use $create-from-slideshare to recover this Slideshare deck into local PPTX, PDF, and slide images."
