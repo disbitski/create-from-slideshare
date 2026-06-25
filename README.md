@@ -133,6 +133,24 @@ If a page exposes only low-resolution viewer images, the script falls back to
 those rather than inventing unavailable URLs. The manifest records exactly which
 source URL was used for each slide.
 
+## Responsible Use
+
+Use this skill for decks you own, decks you created, or decks you are explicitly
+authorized to archive. Always try Slideshare's official download flow first,
+including the normal download button and any account-based export options the
+site provides.
+
+Do not use this skill to bypass access controls, copy private or restricted
+content, redistribute someone else's work, or ignore Slideshare's terms of
+service. The recovery flow is intended for personal archival and legitimate
+preservation when a public viewer still displays the slides but official
+download/export controls are unavailable or broken.
+
+You are responsible for making sure your use is lawful and permitted. The
+authors and contributors of this repository are not responsible for misuse,
+copyright infringement, policy violations, or other claims arising from how this
+tool is used.
+
 ## Repository Layout
 
 ```text
@@ -148,7 +166,8 @@ source URL was used for each slide.
 
 ## Status
 
-Validated against two real Slideshare decks:
+Validated against two of Dave Isbitski's own real Slideshare decks from his
+time at Microsoft:
 
 - `living-the-dream-make-the-video-game-youve-always-wanted-and-get-paid-for-it/13618324`
   recovered 51 slides.
